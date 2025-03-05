@@ -14,5 +14,5 @@
 
 
 ## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/kaushal-parmar1999/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaushal-parmar1999/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/KaushalParmar29)
