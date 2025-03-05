@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**KaushalParmar29/KaushalParmar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Kaushal Parmar!  
+🚀 Data Engineer | Python Enthusiast | SQL | Data Science  
 
-Here are some ideas to get you started:
+🔹 Passionate about **Data Engineering & Python Development**  
+🔹 Currently learning **Advanced SQL, Python Projects and Pyspark**  
+🔹 Looking to **improve my GitHub profile & contribute to open source**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Skills:
+- 🔵 **Languages**: Python, SQL  
+- 🛠️ **Tools**: Git, GitHub, MySQL, Pandas, NumPy, Pyspark  
+- 📊 **Interests**: Data Engineering, Cloud, Machine Learning  
+
+
+## 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/kaushal-parmar1999/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/KaushalParmar29)
